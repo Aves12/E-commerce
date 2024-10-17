@@ -63,6 +63,3 @@ The project is divided into three main parts:
   ```bash
   pip install -r requirements.txt
   ```
-
-## Class Diagram
-- If a visual class diagram is provided, include it in the `diagrams` directory.
